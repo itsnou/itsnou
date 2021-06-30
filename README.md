@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hola, yo soy Emiliano Meneses</h1>
+<h3 align="center">Desarrollador Full Stack</h3>
+<hr></hr>
 
-<!--
-**itsnou/itsnou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>💻 HTML | CSS | REACT | REDUX | NODE | EXPRESS | POSTGRESQL | MONGODB </p>
 
-Here are some ideas to get you started:
+<br></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsnou&show_icons=true&locale=en&layout=compact" alt="itsnou" /></p>
+
+<br></br>
+
+
+<h3 align="left">Contacto: </h3>
+
+
+# 🤝 Contactame
+[![Linkedin Badge](https://img.shields.io/badge/%40obahareth-linkedin?style=flat&color=0077b5&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/emiliano-meneses "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/emiliano.meneses-email?style=flat&color=C5211E&logoColor=white&logo=gmail)](mailto:omar@omar.engineer "Email me")
