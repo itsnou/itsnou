@@ -1,16 +1,10 @@
 <h1 align="center">Hola, yo soy Emiliano Meneses</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
-<hr></hr>
 
 <p align='center'>💻 HTML | CSS | REACT | REDUX | NODE | EXPRESS | POSTGRESQL | MONGODB </p>
 
-<br></br>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsnou&show_icons=true&locale=en&layout=compact" alt="itsnou" /></p>
 
-<br></br>
-
-<hr></hr>
 
 # 🤝 Contactame
 [![Linkedin Badge](https://img.shields.io/badge/%40emiliano-meneses-linkedin?style=flat&color=0077b5&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/emiliano-meneses "Connect on LinkedIn")
