@@ -11,8 +11,6 @@
 <br></br>
 
 
-<h3 align="left">Contacto: </h3>
-
 
 # 🤝 Contactame
 [![Linkedin Badge](https://img.shields.io/badge/%40emiliano-meneses-linkedin?style=flat&color=0077b5&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/emiliano-meneses "Connect on LinkedIn")
