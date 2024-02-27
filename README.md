@@ -1,4 +1,4 @@
-<h1 align="center">Hola, yo soy Emiliano Meneses</h1>
+<h1 align="center">Hola, soy Emiliano Meneses</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
 
 <p align='center'>💻 HTML | CSS | REACT | REDUX | VUE | VUEX | QUASAR | NODE | EXPRESS | POSTGRESQL | MONGODB </p>
